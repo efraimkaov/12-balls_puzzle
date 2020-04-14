@@ -4,6 +4,7 @@
 
 ## How to use
 Launch the script (you must have installed dialog):
+
     sh 12-balls_puzzle.sh
 
 ### The math puzzle:
