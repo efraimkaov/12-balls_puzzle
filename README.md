@@ -1,6 +1,6 @@
 # 12-balls_puzzle
 
-12 BALLS PUZZLE is a math puzzle game.
+12 BALLS PUZZLE is a logic puzzle game.
 
 ## How to use
 
@@ -9,7 +9,7 @@ Launch the script (you must have installed dialog):
     sh 12-balls_puzzle.sh
 
 
-### The math puzzle:
+### The logic puzzle:
 
 You have 12 balls identical in size and appearance (numbered from b1 to b12) but 1 is an odd weight (could be either or heavy).
 
@@ -20,7 +20,7 @@ You have only 3 chances to weigh the balls in any combination using the scales.
 Find which ball is the odd one and if it's heavier or lighter than the rest.
 
 
-### The Solution for the math puzzle:
+### The Solution for the logic puzzle:
 
 Number the balls b1, b2, b3, ... b10, b11, b12
 
