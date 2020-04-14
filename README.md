@@ -2,9 +2,9 @@
 
 12 BALLS PUZZLE is a math puzzle game.
 
-## Installation
-
-Doesn't require installation. Just run the bash script, you must have installed dialog.
+## How to use
+Launch the script (you must have installed dialog):
+sh 12-balls_puzzle.sh
 
 ### The math puzzle:
 You have 12 balls identical in size and appearance (numbered from b1 to b12) but 1 is an odd weight (could be either or heavy).
