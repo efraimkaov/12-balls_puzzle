@@ -6,7 +6,7 @@
 
 Doesn't require installation. Just run the bash script, you must have installed dialog.
 
-## The Solution:
+### The Solution for the math puzzle:
 Number the balls b1, b2, b3, ... b10, b11, b12
 
 Start off with them in 3 groups: [b1, b2, b3 and b4], [b5, b6, b7 and b8] and [b9,b10,b11 and b12]
