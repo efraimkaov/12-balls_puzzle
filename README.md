@@ -9,7 +9,7 @@ Launch the script (you must have installed dialog):
     sh 12-balls_puzzle.sh
 
 
-### The logic puzzle:
+### The description for the logic puzzle:
 
 You have 12 balls identical in size and appearance (numbered from b1 to b12) but 1 is an odd weight (could be either or heavy).
 
